@@ -1,9 +1,7 @@
-<H3>NAME:PAVANA.G</H3>
-<H3>REGISTER NO:212222230105</H3>
-<H3>EX. NO.3</H3>
-<H3>DATE:10.09.2024</H3>
-<H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
-</H1>
+<H1> Experiment 3: Implementation of Approximate Inference in Bayesian Networks</h1>
+<H1>Date:</H1>
+<H3>Name:PAVANA G</H3>
+<H3>Register No:212222230105</H3>
 
 ## Aim: 
    To construct a python program to implement approximate inference using Gibbs Sampling.</br>
